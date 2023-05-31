@@ -32,3 +32,4 @@ This is a simple web application that allows you to search for GitHub repositori
 
 Feel free to customize this `README.md` file according to your specific project needs. Include any additional information, instructions, or acknowledgements that you think are relevant. You can also add a preview image of your application to provide a visual representation.
 
+![Screenshot from 2023-05-31 15-21-46](https://github.com/Sasa405/github_repository_finder/assets/118745186/8f044708-dda3-4926-b18a-ae8d83095cbd)
